@@ -23,7 +23,7 @@ A Python-based IoT security alarm built on a Raspberry Pi that detects motion us
 
 ## 📂 Project Structure
 ## 📄 Documentation
-Full project report available in the `/pdf` folder.
+Full project report available in the `Alarm System.pdf` folder.
 
 ## 🎓 Context
 Developed as part of an IoT module at college, demonstrating integration of hardware and software components.
