@@ -20,7 +20,17 @@ A Python-based IoT security alarm built on a Raspberry Pi that detects motion us
 - Red and Blue LEDs
 - Buzzer
 
+## Proof/Screenshots
+<img width="611" height="440" alt="Screenshot 2026-03-28 223848" src="https://github.com/user-attachments/assets/cac16004-fdb6-429a-84c0-a217f501ab78" />
+<img width="796" height="586" alt="Screenshot 2026-03-28 223608" src="https://github.com/user-attachments/assets/19013735-7beb-497d-9be6-8cf71fa66cb3" />
+<img width="551" height="698" alt="Screenshot 2026-03-28 223636" src="https://github.com/user-attachments/assets/ff08dae1-dbc6-422e-af4e-3f439c33e9c5" />
+<img width="456" height="609" alt="Screenshot 2026-03-28 223656" src="https://github.com/user-attachments/assets/adee3880-c031-4ecc-8131-c6ee3f901009" />
+<img width="462" height="605" alt="Screenshot 2026-03-28 223711" src="https://github.com/user-attachments/assets/a35a3d5f-55a4-4a26-bc28-19fffcac9f85" />
+
+
 **Language:** Python 3
+<img width="606" height="381" alt="Screenshot 2026-03-28 223728" src="https://github.com/user-attachments/assets/2f69cd0b-3346-4466-b011-063e139f82b5" />
+
 
 **Libraries:**
 - `gpiozero` — GPIO pin control for sensors and output components
